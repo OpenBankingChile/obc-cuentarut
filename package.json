@@ -1,0 +1,28 @@
+{
+  "name": "obc-cuentarut",
+  "version": "1.0.0",
+  "description": "OpenBankingChile Banco Estado CuentaRUT driver",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenBankingChile/obc-cuentarut.git"
+  },
+  "keywords": [
+    "openbanking",
+    "chile",
+    "bancoestado",
+    "cuentarut"
+  ],
+  "author": "Andres Junge <ajunge@totexa.cl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenBankingChile/obc-cuentarut/issues"
+  },
+  "homepage": "https://github.com/OpenBankingChile/obc-cuentarut#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
